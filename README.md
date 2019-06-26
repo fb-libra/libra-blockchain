@@ -2,7 +2,7 @@
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
-
+https://libra.org/en-US/white-paper/#introducing-libra
 
 ## Running Locally
 
