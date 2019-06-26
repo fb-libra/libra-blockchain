@@ -1,7 +1,6 @@
-# Heroku Flow Demo
+# Libra Blockchain
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
-
+https://techcrunch.com/2019/06/18/facebook-libra/
 
 
 ## Running Locally
